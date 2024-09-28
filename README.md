@@ -1,4 +1,4 @@
-# PureWay
+# AirCalibre
 Air pollution is a global issue that poses a significant threat to human health and the environment, and measuring its concentration levels in the atmosphere is essential to reduce it. This project explores the use of image analysis and deep learning techniques to predict PM 2.5 levels.
 
 
